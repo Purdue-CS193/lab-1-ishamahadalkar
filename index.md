@@ -17,8 +17,6 @@ Syntax highlighted code block
 - It's a student taught class
 - We meet only once a week
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
